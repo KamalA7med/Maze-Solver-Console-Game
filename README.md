@@ -38,6 +38,8 @@ A C# console-based maze game where the player navigates a dynamically generated 
 4. The goal is to reach the cell containing **E** (Exit).
 
 ---
+<img width="396" height="689" alt="image" src="https://github.com/user-attachments/assets/ea057a60-90a0-401e-bea5-320153dd613d" />
+
 
 ## 🧩 Code Structure
 | File | Purpose |
