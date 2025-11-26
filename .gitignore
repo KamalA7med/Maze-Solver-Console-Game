@@ -1,0 +1,21 @@
+# Build directories
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Backup / logs
+*.log
+*.bak
+*.tmp
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+
+# Rider / JetBrains
+.idea/
+*.iml
